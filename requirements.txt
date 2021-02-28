@@ -87,7 +87,7 @@ requests-oauthlib==1.3.0
 rsa==4.7.2
 sacremoses==0.0.43
 scikit-learn==0.24.1
-scipy==1.6.1
+scipy==1.4.1
 segtok==1.5.10
 sentencepiece==0.1.91
 six==1.15.0
@@ -98,8 +98,8 @@ statsmodels==0.12.2
 tabulate==0.8.9
 tensorboard==2.4.1
 tensorboard-plugin-wit==1.8.0
-tensorflow==2.4.1
-tensorflow-estimator==2.4.0
+# tensorflow==2.4.1
+# tensorflow-estimator==2.4.0
 termcolor==1.1.0
 threadpoolctl==2.1.0
 TimeSeriesCrossValidation @ git+https://github.com/DidierRLopes/TimeSeriesCrossValidation@1e29d393204abb3bde23ff3f15258ed85d3b263e
@@ -127,5 +127,5 @@ scikit_learn==0.24.1
 tensorflow==2.4.1
 zipp==3.4.0
 lunarcalendar
-fbprophet
+# fbprophet
 levenshtein
